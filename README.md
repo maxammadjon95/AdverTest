@@ -1,5 +1,6 @@
 # AdverTest
-Privacy Policy
+Privacy Policy.
+<br/>
 This app was developed to explore Google’s AdMob services.
 The app does not ask you for any permissions on the phone.
 You only need an internet connection to use the App.
